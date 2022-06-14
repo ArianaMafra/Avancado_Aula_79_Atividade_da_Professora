@@ -1,0 +1,19 @@
+input{
+    margin:10px;
+}
+
+body{
+    background: pink;
+}
+
+#submit_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-width: 10px;
+}
+
+#sort_button{
+    display:none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
